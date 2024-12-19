@@ -1,8 +1,4 @@
-# Lokale-Planungsalgorithmen
-Dieses Repository enthält eine Sammlung von lokalen Planungsalgorithmen, die in der Robotik und Bewegungsplanung verwendet werden. Jeder Algorithmus wird in einem eigenen Ordner präsentiert.
-
 # Lokale Planungsalgorithmen
-
 Dieses Repository enthält eine Sammlung von lokalen Planungsalgorithmen, die in der Robotik und Bewegungsplanung eingesetzt werden. Die Algorithmen sind in Kategorien unterteilt und jeder Algorithmus wird in einem eigenen Unterordner präsentiert.
 
 ---
