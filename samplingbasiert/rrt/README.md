@@ -20,4 +20,4 @@ RRT ist ein sampling-basierter Algorithmus, der zufällige Punkte im Suchraum ge
 - Kann suboptimale Pfade liefern.
 
 ### Relevante Repositories
-- [RRT-Algorithmus in Python](https://github.com/ArianJM/rapidly-exploring-random-trees/blob/master/rrt.py)
+- [RRT-Algorithmus in Python](https://github.com/ArianJM/rapidly-exploring-random-trees/tree/master)
