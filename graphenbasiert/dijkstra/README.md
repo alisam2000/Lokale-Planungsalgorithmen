@@ -12,4 +12,4 @@ Der Dijkstra-Algorithmus ist ein graphenbasierter Pfadplanungsalgorithmus.
 - Start- und Zielknoten.
 
 ## Relevante Repositories
-- [Dijkstra in Python](https://github.com/trekhleb/algorithms/tree/master/src/algorithms/graph/dijkstra)
+-  [Dijkstra in Python (Gist von heckenmann)](https://gist.github.com/heckenmann/6a42de6413efa815dff0)
